@@ -38,6 +38,7 @@ Add variables to your project from Part A so that the face can move between the 
 ## Part C
 Modify your code from part B so that the face changes fluidly from the neutral expression to the strong expression as you move the mouse across the screen. The map function will be your friend for this. You will need to include a setup() and draw() to your project so that variables in the draw() can be updated on the fly. Think about how you can develop in-between expressions and make the face as dynamic and emotive as possible. I have put together an example TK.
 
+Student Work
 
-[https://editor.p5js.org/kristamiya/sketches/S1eDLz2_X](#Krista)
+[Krista](#https://editor.p5js.org/kristamiya/sketches/S1eDLz2_X)
 
