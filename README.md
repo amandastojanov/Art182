@@ -1,4 +1,4 @@
-# Art182
+##  Art182
 LMU Class Fall 2018
 
 
@@ -28,3 +28,16 @@ Code Editor of your choice (Brackets, Sublime Text 2, or Atom. Hint: Brackets wi
 
 # Use of Technology
 You will need access to a computer or laptop to complete the coursework for this assignment. All software used in this class is free of charge and open source.
+
+
+# Course Objectives
+Develop an understanding of the principles of programming.
+Ability to use programming as a medium for creative work.
+Awareness of the field, its pioneers and contemporary practitioners.
+The ability to excel in future courses about the Internet, animation, interactive media, and game design.
+
+
+# Required Reading and Viewing
+Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing (Make) (should be in the school book store)
+The Coding Train : Foundations of Programming in Javascript with Daniel Shiffman
+
