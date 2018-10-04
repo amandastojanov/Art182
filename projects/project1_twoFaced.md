@@ -40,5 +40,5 @@ Modify your code from part B so that the face changes fluidly from the neutral e
 
 Student Work
 
-[Krista](#https://editor.p5js.org/kristamiya/sketches/S1eDLz2_X)
+* [Krista](https://editor.p5js.org/kristamiya/sketches/S1eDLz2_X)
 
