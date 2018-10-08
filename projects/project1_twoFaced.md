@@ -41,4 +41,23 @@ Modify your code from part B so that the face changes fluidly from the neutral e
 Student Work
 
 * [Krista](https://editor.p5js.org/kristamiya/sketches/S1eDLz2_X)
+* [Chase](https://editor.p5js.org/cmcfadden/sketches/BJ-uGJC_m)
+* [Kelly](https://editor.p5js.org/kellysidney/sketches/S1UcrpLF7)
+* [Tyler](https://editor.p5js.org/tmarks2/sketches/rJyUG5rdm)
+* [Kyra](https://editor.p5js.org/kaknauer/sketches/HJuco7ADQ)
+* [Aubin](https://editor.p5js.org/ameschuler@gmail.com/sketches/BkxhKKFuQ)
+* [Autumn](https://editor.p5js.org/retroauriel/sketches/HJdS17ADQ)
+* [Kate](https://editor.p5js.org/klblasco/sketches/H1qOOvP_X)
+* [Hanna](https://editor.p5js.org/hanna/sketches/HJr-FDv_X)
+Cherrell 
+Reiner
+Matt
+Adriel 
+David
+
+
+
+
+
+
 
