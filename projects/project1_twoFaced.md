@@ -49,11 +49,12 @@ Student Work
 * [Autumn](https://editor.p5js.org/retroauriel/sketches/HJdS17ADQ)
 * [Kate](https://editor.p5js.org/klblasco/sketches/H1qOOvP_X)
 * [Hanna](https://editor.p5js.org/hanna/sketches/HJr-FDv_X)
-Cherrell 
-Reiner
+* [David](https://editor.p5js.org/davidniles/sketches/Hy1WVvPum)
+* [Cherrell](https://editor.p5js.org/cfinister/sketches/rJmpoXuOX)
+* [Adriel](https://editor.p5js.org/American_Ren/sketches/B1GOti4_7)
+* [Reiner](https://editor.p5js.org/ReinerKarnadi/sketches/SyEddvg9m)
+
 Matt
-Adriel 
-David
 
 
 
