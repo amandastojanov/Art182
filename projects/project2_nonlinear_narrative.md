@@ -20,3 +20,20 @@ Freesound
 Free SFX
 Sound Bible
 Sound On Loop
+
+
+* [Aubin](https://editor.p5js.org/ameschuler@gmail.com/sketches/H1H0MtGj7)
+* [Tyler](https://editor.p5js.org/tmarks2/sketches/HJLeBMX9X)
+* [Kyra](https://editor.p5js.org/kaknauer/sketches/HylcoNac7)
+* [Hanna](https://editor.p5js.org/hanna/sketches/rJCt7YZom)
+* [David](https://editor.p5js.org/davidniles/sketches/ryGl4pZjX)
+* [Matt](https://editor.p5js.org/mtether@lion.lmu.edu/sketches/B1ldsNugqQ)
+* [Autumn](https://editor.p5js.org/retroauriel/sketches/B1MujIfoX)
+* [Krista](https://editor.p5js.org/kristamiya/sketches/HkFBrfX9m)
+* [Adriel](https://editor.p5js.org/American_Ren/sketches/BywkdLZjX)
+
+Cherrell
+Kate
+Chase
+Reiner
+Kelly
