@@ -31,9 +31,8 @@ Sound On Loop
 * [Autumn](https://editor.p5js.org/retroauriel/sketches/B1MujIfoX)
 * [Krista](https://editor.p5js.org/kristamiya/sketches/HkFBrfX9m)
 * [Adriel](https://editor.p5js.org/American_Ren/sketches/BywkdLZjX)
-
-Cherrell
-Kate
+* [Cherrell](https://editor.p5js.org/cfinister/sketches/H1QfBEfjm)
+* [Kate](https://editor.p5js.org/klblasco/sketches/rJ6kd3t5m)
 Chase
 Reiner
 Kelly
