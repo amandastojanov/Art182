@@ -9,3 +9,9 @@ Now that you have all of your animations created, combine them all into one larg
 
 Examples:
 Patatap
+
+
+* [Autumn](https://editor.p5js.org/retroauriel/sketches/B1dtzp0jX)
+* [Tyler](https://editor.p5js.org/tmarks2/sketches/SJ7ERz2iX)
+* [Cherrell](https://editor.p5js.org/cfinister/sketches/ByRIb3CiX)
+* [David](https://editor.p5js.org/davidniles/full/r1q9WtN37)
