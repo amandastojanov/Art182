@@ -33,6 +33,7 @@ Sound On Loop
 * [Adriel](https://editor.p5js.org/American_Ren/sketches/BywkdLZjX)
 * [Cherrell](https://editor.p5js.org/cfinister/sketches/H1QfBEfjm)
 * [Kate](https://editor.p5js.org/klblasco/sketches/rJ6kd3t5m)
-Chase
-Reiner
+* [Chase](https://editor.p5js.org/full/SkKIQjYqQ)
+* [Reiner](https://editor.p5js.org/ReinerKarnadi/sketches/ByUDcqKqm)
+
 Kelly
