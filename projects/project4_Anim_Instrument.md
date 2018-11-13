@@ -15,3 +15,17 @@ Patatap
 * [Tyler](https://editor.p5js.org/tmarks2/sketches/SJ7ERz2iX)
 * [Cherrell](https://editor.p5js.org/cfinister/sketches/ByRIb3CiX)
 * [David](https://editor.p5js.org/davidniles/full/r1q9WtN37)
+* [Chase](https://editor.p5js.org/full/SkKIQjYqQ)
+* [Hannah](https://editor.p5js.org/hanna/sketches/SJbYI72sX)
+* [Krista](https://editor.p5js.org/kristamiya/sketches/rkS0mcJh7)
+* [Kyra](https://editor.p5js.org/kaknauer/sketches/S1A3MQhsm)
+Reiner
+Aubin
+Kate
+Adriel
+Matt
+Kelly
+
+
+
+
