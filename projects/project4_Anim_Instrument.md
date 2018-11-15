@@ -19,6 +19,8 @@ Patatap
 * [Krista](https://editor.p5js.org/kristamiya/sketches/rkS0mcJh7)
 * [Kyra](https://editor.p5js.org/kaknauer/sketches/S1A3MQhsm)
 * [Aubin](https://editor.p5js.org/ameschuler@gmail.com/sketches/Syif3f2iQ)
+* [Kate](https://editor.p5js.org/klblasco/sketches/B1Kanfns7)
+
 
 Reiner
 Kate
