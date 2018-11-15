@@ -18,8 +18,9 @@ Patatap
 * [Hannah](https://editor.p5js.org/hanna/sketches/SJbYI72sX)
 * [Krista](https://editor.p5js.org/kristamiya/sketches/rkS0mcJh7)
 * [Kyra](https://editor.p5js.org/kaknauer/sketches/S1A3MQhsm)
+* [Aubin](https://editor.p5js.org/ameschuler@gmail.com/sketches/Syif3f2iQ)
+
 Reiner
-Aubin
 Kate
 Adriel
 Matt
