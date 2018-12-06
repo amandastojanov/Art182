@@ -35,5 +35,4 @@ Sound On Loop
 * [Kate](https://editor.p5js.org/klblasco/sketches/rJ6kd3t5m)
 * [Chase](https://editor.p5js.org/full/SkKIQjYqQ)
 * [Reiner](https://editor.p5js.org/ReinerKarnadi/sketches/ByUDcqKqm)
-
-Kelly
+* [Reiner](https://editor.p5js.org/kellysidney/sketches/BkHFzIA2Q)
