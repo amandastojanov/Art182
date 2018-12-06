@@ -22,11 +22,11 @@ Patatap
 * [Kate](https://editor.p5js.org/klblasco/sketches/B1Kanfns7)
 * [Adriel](https://editor.p5js.org/American_Ren/sketches/Hyzj_Amnm)
 * [Matt](https://editor.p5js.org/mtether@lion.lmu.edu/sketches/rJtwrnCsX)
+* [Chase](https://editor.p5js.org/cmcfadden/sketches/rkF60M2om)
 
 
 Reiner
 Kelly
-Chase
 
 
 
