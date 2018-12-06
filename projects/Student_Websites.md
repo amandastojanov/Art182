@@ -13,8 +13,8 @@
 * [Chase](https://chasemcfadden-computergraphics.squarespace.com)
 * [Kelly]( https://kellysidney.com)
 * [Kate](https://violet-tulip-d7a8.squarespace.com/config/)
+* [Tyler](http://tylermarksmedia.squarespace.com/website-coding/)
 
-Tyler
 Reiner
 Matt
 Adriel
