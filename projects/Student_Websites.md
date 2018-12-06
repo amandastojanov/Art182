@@ -11,8 +11,8 @@
 * [Autumn](http://autumnauriel.com)
 * [Adriel](https://adrielvanetten.com/art)
 * [Chase](https://chasemcfadden-computergraphics.squarespace.com)
+* [Kelly]( https://kellysidney.com)
 
- 
 Kate
 Tyler
 Kelly
