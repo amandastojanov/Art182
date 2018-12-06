@@ -10,8 +10,9 @@
 * [Aubin](ameschuler.wixsite.com/website)
 * [Autumn](http://autumnauriel.com)
 * [Adriel](https://adrielvanetten.com/art)
+* [Chase](https://chasemcfadden-computergraphics.squarespace.com)
+
  
-Chase
 Kate
 Tyler
 Kelly
