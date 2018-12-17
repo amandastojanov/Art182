@@ -14,10 +14,11 @@
 * [Kelly]( https://kellysidney.com)
 * [Kate](https://violet-tulip-d7a8.squarespace.com/config/)
 * [Tyler](http://tylermarksmedia.squarespace.com/website-coding/)
+* [Adriel](https://adrielvanetten.com/art)
 
 Reiner
 Matt
-Adriel
+
 
 
 
