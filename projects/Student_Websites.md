@@ -15,10 +15,9 @@
 * [Kate](https://violet-tulip-d7a8.squarespace.com/config/)
 * [Tyler](http://tylermarksmedia.squarespace.com/website-coding/)
 * [Adriel](https://adrielvanetten.com/art)
+* [Matt](https://mtdigitalart.weebly.com/gallery.html)
 
 Reiner
-Matt
-
 
 
 
