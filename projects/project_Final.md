@@ -23,3 +23,4 @@ Please prepare a proposal to share with the class for Monday November 27. Your p
 * [Kyra2](https://editor.p5js.org/kaknauer/sketches/rJNK4ja1E)
 * [Cherrell](https://editor.p5js.org/cfinister/full/rJgQY1pAQ)
 * [Matt](https://editor.p5js.org/mtether@lion.lmu.edu/sketches/ryBS2AhCm)
+Chase
